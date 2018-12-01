@@ -24,7 +24,10 @@
 
 title AttackD2
 @echo off
-Color 7
+@echo [ON ^| OFF]
+COLOR 07
+mode con lines=45 cols=88
+
 :User
 rem echo.
 rem echo Opnciones
