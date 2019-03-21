@@ -1,4 +1,7 @@
 # AttackD2
+
+![](https://3.bp.blogspot.com/-RqODWA973n0/WjCtYMkCa1I/AAAAAAAAIwk/ZeWZd15vTj4937Rf89Ae-NPYNccXjyHhgCEwYBhgL/s1600/Attack2D%2Blpericena.png)
+
 Denegación de servicios web AttackD2
 Attack2D
 Esta desarrollado en .Bat que nos ayudara a obtener la ip de la pagina de nuestra victima, como también las conexiones activas de nuestro ordenador.
